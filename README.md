@@ -1,4 +1,4 @@
-# SCALE-A-DAY
+# MAGNESIUM
 
 A Flutter Web port of the SCALE-A-DAY studio synthesizer and scale trainer.
 
